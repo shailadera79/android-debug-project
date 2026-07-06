@@ -1,0 +1,2 @@
+rootProject.name = "usb-recover-minimal"
+include ':app'
